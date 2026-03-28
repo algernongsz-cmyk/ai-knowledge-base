@@ -2,6 +2,4 @@
 __pycache__/
 *.pyc
 node_modules/
-.opencode/node_modules/
-.opencode/bun.lock
 logs/

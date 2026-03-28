@@ -1,0 +1,11 @@
+# AI 知识库 V4 — Python 依赖
+# pip install -r requirements.txt
+
+# HTTP 异步客户端（Telegram/飞书 API 调用）
+aiohttp>=3.9.0,<4.0
+
+# 类型注解增强
+typing-extensions>=4.9.0
+
+# 日志格式化（可选，美化开发环境日志）
+rich>=13.0.0
