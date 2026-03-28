@@ -1,20 +1,19 @@
 {
   "id": "rss-20260328-005",
-  "title": "AutoSAM: an Agentic Framework for Automating Input File Generation for the SAM Code with Multi-Modal Retrieval-Augmented Generation",
-  "source": "rss:arXiv cs.AI",
-  "source_url": "https://arxiv.org/abs/2603.24736",
-  "author": "arXiv cs.AI",
-  "published_at": "2026-03-27T16:39:03.507800+00:00",
-  "collected_at": "2026-03-27T16:39:03.507800+00:00",
-  "summary": "AutoSAM 是一个基于智能体框架的系统，利用多模态检索增强生成技术，自动为 SAM 代码生成输入文件。该框架通过整合多模态信息检索和生成能力，提升了输入文件生成的自动化水平和准确性，为复杂仿真代码的配置提供了高效解决方案。",
+  "title": "A New Framework for Evaluating Voice Agents (EVA)",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ServiceNow-AI/eva",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-03-28T05:20:18.779142+00:00",
+  "collected_at": "2026-03-28T05:20:18.779142+00:00",
+  "summary": "该文章介绍了一个名为EVA的新框架，专门用于评估语音代理的性能，旨在提供更标准化和全面的测试方法。该框架有助于开发者更准确地衡量语音代理在真实场景中的表现，推动语音AI技术的可靠部署。",
   "score": 7,
   "tags": [
     "agent",
-    "rag",
-    "multi-agent",
-    "code-generation"
+    "audio",
+    "evaluation"
   ],
   "audience": "intermediate",
   "status": "review",
-  "updated_at": "2026-03-27T16:39:47.987941+00:00"
+  "updated_at": "2026-03-28T05:23:07.074855+00:00"
 }
