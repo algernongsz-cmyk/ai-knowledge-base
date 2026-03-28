@@ -1,8 +1,0 @@
-{
-  "id": "manual-20260327-001",
-  "title": "Harness Engineering：现代软件交付工程实践",
-  "source_url": "https://harness.io/blog/harness-engineering-practices",
-  "summary": "Harness Engineering 是一种现代化的软件交付工程实践，强调自动化、可观测性和持续改进。它结合了 CI/CD、GitOps、混沌工程和可观测性，通过统一的平台实现端到端的软件交付生命周期管理，帮助团队提高交付速度、可靠性和安全性。",
-  "tags": ["devops", "ci-cd", "gitops", "automation", "observability"],
-  "status": "draft"
-}
