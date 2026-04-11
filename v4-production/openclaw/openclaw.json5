@@ -58,6 +58,7 @@
     },
     "daily-briefing": {
       "soul": "./SOUL.md",
+      "skill": "./skills/daily-digest/SKILL.md",
       "script": "../distribution/formatter.py",
       "timeout": 60000
     },

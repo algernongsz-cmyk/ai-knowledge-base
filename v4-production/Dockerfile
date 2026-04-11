@@ -32,6 +32,8 @@ WORKDIR /app
 COPY --from=builder /install /usr/local
 
 # 拷贝项目文件
+COPY workflows/ ./workflows/
+COPY patterns/ ./patterns/
 COPY pipeline/ ./pipeline/
 COPY distribution/ ./distribution/
 COPY bot/ ./bot/
